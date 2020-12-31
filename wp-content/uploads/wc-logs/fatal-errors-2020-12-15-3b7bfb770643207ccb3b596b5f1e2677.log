@@ -1,0 +1,8 @@
+2020-12-15T08:46:44+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) در /home/madamadc/public_html/wp-includes/pomo/mo.php در خط 323
+
+2020-12-15T22:01:58+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) در /home/madamadc/public_html/wp-includes/pomo/mo.php در خط 323
+
+2020-12-15T22:01:58+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 147456 bytes) در /home/madamadc/public_html/wp-content/themes/cafecommerce/theme-options/CafeCore/framework.php در خط 40
+
+2020-12-15T22:03:05+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 299008 bytes) در /home/madamadc/public_html/wp-includes/pomo/streams.php در خط 205
+

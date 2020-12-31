@@ -1,0 +1,31 @@
+[Jul 4 09:00:48] 
+[Jul 4 09:00:48] ==DUPLICATOR INSTALLER BOOTSTRAP v3.8.6.2==
+[Jul 4 09:00:48] ----------------------------------------------------
+[Jul 4 09:00:48] Installer bootstrap start
+[Jul 4 09:00:48] Using archive /home/madamadc/public_html/cafecommerce_daa9d8a7d981d987daa9d8a7d98_0bd4b8d2e997c6303631_20200205153816_archive.zip
+[Jul 4 09:00:48] Manual extract found so not going to extract dup-installer dir
+[Jul 4 09:00:48] EXTRACT dup-installer dir
+[Jul 4 09:00:48] ERROR: Didn't need to extract the installer.
+[Jul 4 09:00:48] Set permissions of dup-installer to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/api to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/assets to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/classes to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/ctrls to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/favicon to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/lib to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/original_files_0bd4b8d-05153816 to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/views to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-archive__0bd4b8d-05153816.txt to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-database-seek-tell-log__0bd4b8d-05153816.txt to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-database__0bd4b8d-05153816.sql to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-installer-csrf__0bd4b8d-05153816.txt to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-installer-log__0bd4b8d-05153816.txt to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-installer-notices__0bd4b8d-05153816.json to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-params__0bd4b8d-05153816.json to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-scan__0bd4b8d-05153816.json to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-scanned-dirs__0bd4b8d-05153816.txt to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/dup-scanned-files__0bd4b8d-05153816.txt to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/index.php to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/main.installer.php to 0<br/>
+[Jul 4 09:00:48] Set permissions of dup-installer/php_error__0bd4b8d-05153816.log to 0<br/>
+[Jul 4 09:00:48] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://madamak.ir/dup-installer/main.installer.php
