@@ -1,7 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2c8625-c4ee-4a17-a34a-3d7f6508a906" name="Default Changelist" comment="" />
+    <list default="true" id="6c2c8625-c4ee-4a17-a34a-3d7f6508a906" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/awesome-support/awesome_ticket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/awesome-support/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/awesome-support/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/awesome-support/partials/ticket-reply.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/awesome-support/submission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/customFunctions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Black-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Black-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Black-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Black-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Bold-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Bold-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Bold-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Bold-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Light-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Light-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Light-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Light-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Medium-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Medium-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Medium-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Medium-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Thin-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Thin-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Thin-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/Vazir-Thin-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/bahnschrift.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/Batman-Arkham-VR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/assassins-creed-syndicate-old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/assassins-creed-syndicate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/assassins-creed-valhalla-old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/assassins-creed-valhalla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/call-duty-mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/call-of-duty-2-old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/call-of-duty-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/call-of-duty-old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/call-of-duty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/cod-black-ops-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/controller.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/cyberpunk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/cyberpunk2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/devil-may-cry-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/enamad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/explotion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/farcry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/loading-old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/loading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/nero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/red-dead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/basket-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/basket-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/cheque-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/coupon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/cursor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/delivery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/fix-phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/form-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/form-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/game.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/guarantee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/home-payment-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/online-payment-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/pay-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/sale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/send.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/support.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/svg/tick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/ubisoft-wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/watch-dogs-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/images/مافیا.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/acf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/items/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/items/productTypeThree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/address.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/blog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/downloads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/editAccount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/games.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/lostPassword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/lostPasswordConfirm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/orders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/resetPassword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/ticketDetail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/tickets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/loops/page/woo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/blog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/companies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/lastestProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/productCategories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/productsByCategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/inc/partials/suggestedProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/js/live_search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/js/live_search_mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/js/owls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/jquery.ui.slider-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/live_search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/live_search_mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/owls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/jsmini/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/myFilters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/screenshot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/sidenav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/single-product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/taxonomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/archive-product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/cart/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/checkout/form-checkout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/checkout/review-order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/checkout/thankyou.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/content-product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/myaccount/form-edit-account.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/myaccount/form-edit-address.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/myaccount/view-order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/notices/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/notices/notice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/notices/success.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/order/order-details-customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/order/order-details-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/order/order-details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/order/order-downloads.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/single-product-reviews.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/single-product/review.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/taxonomy-product_cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/GamePlus-Child/woocommerce/taxonomy-product_tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +231,17 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mPmhEm2iFmLzlvRxJyyxczwOEH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -23,8 +249,15 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,21 +267,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609403718015</updated>
-      <workItem from="1609403719034" duration="11976000" />
+      <workItem from="1609403719034" duration="19101000" />
+      <workItem from="1609579230926" duration="1403000" />
+      <workItem from="1609850741064" duration="1244000" />
+      <workItem from="1610035157596" duration="1247000" />
+      <workItem from="1610367202315" duration="96000" />
+      <workItem from="1610457954373" duration="3816000" />
+      <workItem from="1610626571116" duration="4582000" />
+      <workItem from="1610787818602" duration="5142000" />
+      <workItem from="1610948958135" duration="15000" />
+      <workItem from="1610949324602" duration="61000" />
+      <workItem from="1610950105328" duration="184000" />
+      <workItem from="1610950991371" duration="877000" />
+      <workItem from="1610952057923" duration="736000" />
+      <workItem from="1610953898379" duration="290000" />
+      <workItem from="1610954202603" duration="4978000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1312" y="520" key="#Deployment" timestamp="1609403821815">
-      <screen x="0" y="0" width="3840" height="2070" />
-    </state>
-    <state x="1312" y="520" key="#Deployment/0.0.3840.2070@0.0.3840.2070" timestamp="1609403821815" />
-    <state x="1772" y="568" width="412" height="932" key="ftp.server.browser" timestamp="1609403743963">
-      <screen x="0" y="0" width="3840" height="2070" />
-    </state>
-    <state x="1772" y="568" width="412" height="932" key="ftp.server.browser/0.0.3840.2070@0.0.3840.2070" timestamp="1609403743963" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
